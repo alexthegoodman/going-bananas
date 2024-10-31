@@ -1,0 +1,8 @@
+[package]
+name = "going-bananas"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+midpoint-engine = { path = "D:/projects/common/midpoint-engine" }
+tokio = { version = "1.39.0", features = ["full"] }
